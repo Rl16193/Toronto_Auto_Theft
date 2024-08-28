@@ -32,6 +32,7 @@ Developed interactive visualizations and ARCGIS maps to effectively present thes
 8. Major neighborhood clusters were identified around Downsview Airport and Toronto Pearson International Airport, contributing to nearly 10% of all auto-thefts.  
 9. Additional significant clusters include the areas around the Toronto Zoo, Etobicoke City Centre and Wexford-MAryvale Neighborhoods.
 
-![image](https://github.com/user-attachments/assets/db6ccd00-e17a-4212-8c3f-5e397da16237)
+![image](https://github.com/user-attachments/assets/89f39023-f050-4bc5-bce5-59b402c4d6a3)
+
 
 
