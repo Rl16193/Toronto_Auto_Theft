@@ -3,12 +3,12 @@
 The objective of this project is to leverage Power BI for data cleaning, ensuring consistency by correcting data types and addressing any corrupted entries.
 The focus is on summarizing and analyzing auto-theft data, uncovering insights into neighborhood clusters, property-type distributions, and theft patterns across various times—such as days of the week and hourly trends.
 These insights will allow us to identify patterns and better understand the characteristics of high-theft areas.
-The data was obtained from Toronto Police Service Public Safety Portal https://data.torontopolice.on.ca/datasets/TorontoPS::auto-theft-open-data/about
+The data was obtained from the Toronto Police Service Public Safety Portal https://data.torontopolice.on.ca/datasets/TorontoPS::auto-theft-open-data/about
 
 ## Methodology
 
 Leveraged Power BI query to correct column data types (transform the data) and employed DAX to incorporate national holidays, summarizing auto-theft trends by day of the year. 
-Developed interactive visualizations and ARCGIS maps to effectively present these insights in a clear and engaging manner.
+Developed interactive visualizations and ArcGIS maps to present these insights clearly and engagingly.
 
 ## Results
 
@@ -21,7 +21,7 @@ Developed interactive visualizations and ARCGIS maps to effectively present thes
 ### Hourly and Daily Trends
 
 4. Auto-thefts dropped sharply by 52.5% during COVID-19 (2020) compared to 2023, the year with the highest reported incidents.  
-5. Thanksgiving Weekend saw the highest spike in thefts, with a 200% increase.  
+5. Thanksgiving Weekend saw the highest theft spike, with a 200% increase.  
 6. The peak hour for auto-thefts was around 10 PM, accounting for 9% of total incidents.  
 7. Thursdays experienced the highest frequency of thefts, contributing to 16% of overall cases.
 
@@ -29,8 +29,8 @@ Developed interactive visualizations and ARCGIS maps to effectively present thes
 
 ### Location Clusters
 
-8. Major neighborhood clusters were identified around Downsview Airport and Toronto Pearson International Airport, contributing to nearly 10% of all auto-thefts.  
-9. Additional significant clusters include the areas around the Toronto Zoo, Etobicoke City Centre and Wexford-MAryvale Neighborhoods.
+8. Major neighborhood clusters around Downsview Airport and Toronto Pearson International Airport were identified, contributing to nearly 10% of all auto-thefts.  
+9. Additional significant clusters include the areas around the Toronto Zoo, Etobicoke City Centre and Wexford-Maryvale Neighborhoods.
 
 ![image](https://github.com/user-attachments/assets/89f39023-f050-4bc5-bce5-59b402c4d6a3)
 
